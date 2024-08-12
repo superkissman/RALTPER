@@ -4,6 +4,8 @@ RALTPER: A Risk-Aware Local Trajectory Planner for Complex Environment with Gaus
 
 This repository provides the Matlab code for case 2 in the experiment
 
+**Incomplete:** C++code is currently being organized
+
 ## 2 Prerequisites
 1 MATLAB
 
